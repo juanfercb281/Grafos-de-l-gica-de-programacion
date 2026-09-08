@@ -1,3 +1,6 @@
+#se debe tener esta libreria descargada para que funcione pip install networkx numpy matplotlib
+
+
 import networkx as nx
 import numpy as np
 import matplotlib.pyplot as plt
